@@ -29,23 +29,17 @@ interface Engineer {
   }
 }
 
-export default function EngineerDetails({
-  params,
-}: {
-  params: { id: string }
-}) {
+export default function EngineerDetailsClient({ id }: { id: string }) {
   const router = useRouter()
   const [engineer, setEngineer] = useState<Engineer | null>(null)
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
-    // Get the engineer data after the component mounts
-    const foundEngineer = engineers.find(e => e.engineerId === params.id)
+    const foundEngineer = engineers.find(e => e.engineerId === id)
     setEngineer(foundEngineer || null)
     setLoading(false)
-  }, [params.id])
+  }, [id])
 
-  // Handle loading state
   if (loading) {
     return (
       <div className="min-h-screen bg-gradient-to-b from-slate-50 to-slate-100 py-8 flex items-center justify-center">
@@ -57,7 +51,6 @@ export default function EngineerDetails({
     )
   }
 
-  // Handle not found
   if (!engineer) {
     notFound()
   }
