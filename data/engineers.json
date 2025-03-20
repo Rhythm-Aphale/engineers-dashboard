@@ -1,0 +1,153 @@
+[
+    {
+      "engineerId": "12345678ABCDXYZ1",
+      "engineerName": "Rajesh Kumar",
+      "engineerContact": "+919876543210",
+      "state": "Maharashtra",
+      "engineerLocation": "Powai, Mumbai",
+      "engineerStatus": "Active",
+      "engineerTools": "Hammer,Drill,Spanner",
+      "availabilityDays": "Tue,Thu,Sat",
+      "bankDetails": {
+        "bankName": "HDFC Bank",
+        "ifscCode": "HDFC0001234",
+        "accountNumber": "9876543210987654"
+      }
+    },
+    {
+      "engineerId": "87654321WXYZABCD",
+      "engineerName": "Suresh Pandey",
+      "engineerContact": "+917654321098",
+      "state": "Rajasthan",
+      "engineerLocation": "Ajmer Road, Jaipur",
+      "engineerStatus": "Inactive",
+      "engineerTools": "Screwdriver,Wrench,Tester",
+      "availabilityDays": "Mon,Wed,Fri",
+      "bankDetails": {
+        "bankName": "ICICI Bank",
+        "ifscCode": "ICIC0009876",
+        "accountNumber": "1234567890123456"
+      }
+    },
+    {
+      "engineerId": "56473829LKJHGFD",
+      "engineerName": "Priya Sharma",
+      "engineerContact": "+918374659283",
+      "state": "Karnataka",
+      "engineerLocation": "Indiranagar, Bangalore",
+      "engineerStatus": "Active",
+      "engineerTools": "Drill,Plier,Multimeter",
+      "availabilityDays": "Mon,Wed,Sat",
+      "bankDetails": {
+        "bankName": "SBI Bank",
+        "ifscCode": "SBIN0012345",
+        "accountNumber": "5678912345678901"
+      }
+    },
+    {
+      "engineerId": "98237465ASDFGHJK",
+      "engineerName": "Amit Mehta",
+      "engineerContact": "+919827364582",
+      "state": "Gujarat",
+      "engineerLocation": "SG Highway, Ahmedabad",
+      "engineerStatus": "Active",
+      "engineerTools": "Hammer,Saw,Chisel",
+      "availabilityDays": "Tue,Fri,Sun",
+      "bankDetails": {
+        "bankName": "Axis Bank",
+        "ifscCode": "AXIS0007890",
+        "accountNumber": "9087654321098765"
+      }
+    },
+    {
+      "engineerId": "27384910ZXCVBNML",
+      "engineerName": "Neha Verma",
+      "engineerContact": "+917836492716",
+      "state": "Delhi",
+      "engineerLocation": "Lajpat Nagar, Delhi",
+      "engineerStatus": "Inactive",
+      "engineerTools": "Spanner,Plier,Clamp",
+      "availabilityDays": "Thu,Sat,Sun",
+      "bankDetails": {
+        "bankName": "Punjab National Bank",
+        "ifscCode": "PNB0004567",
+        "accountNumber": "3456789012345678"
+      }
+    },
+    {
+      "engineerId": "76583920QWERTYUI",
+      "engineerName": "Manoj Tiwari",
+      "engineerContact": "+919293847561",
+      "state": "Madhya Pradesh",
+      "engineerLocation": "MP Nagar, Bhopal",
+      "engineerStatus": "Active",
+      "engineerTools": "Drill,Leveler,Saw",
+      "availabilityDays": "Mon,Tue,Thu",
+      "bankDetails": {
+        "bankName": "Canara Bank",
+        "ifscCode": "CNRB0003214",
+        "accountNumber": "7654321098765432"
+      }
+    },
+    {
+      "engineerId": "49583716ASDFQWER",
+      "engineerName": "Ramesh Yadav",
+      "engineerContact": "+918473920561",
+      "state": "West Bengal",
+      "engineerLocation": "Salt Lake, Kolkata",
+      "engineerStatus": "Active",
+      "engineerTools": "Multimeter,Screwdriver,Drill",
+      "availabilityDays": "Wed,Fri,Sat",
+      "bankDetails": {
+        "bankName": "Bank of Baroda",
+        "ifscCode": "BARB0006789",
+        "accountNumber": "6789012345678901"
+      }
+    },
+    {
+      "engineerId": "84736291POIUYTRE",
+      "engineerName": "Sunita Patel",
+      "engineerContact": "+917495867302",
+      "state": "Tamil Nadu",
+      "engineerLocation": "T Nagar, Chennai",
+      "engineerStatus": "Inactive",
+      "engineerTools": "Plier,Clamp,Hammer",
+      "availabilityDays": "Tue,Thu,Sun",
+      "bankDetails": {
+        "bankName": "Union Bank",
+        "ifscCode": "UBIN0002345",
+        "accountNumber": "2345678901234567"
+      }
+    },
+    {
+      "engineerId": "93847561LKJHGFDS",
+      "engineerName": "Arvind Singh",
+      "engineerContact": "+919827364827",
+      "state": "Punjab",
+      "engineerLocation": "Sector 17, Chandigarh",
+      "engineerStatus": "Active",
+      "engineerTools": "Screwdriver,Wrench,Tester",
+      "availabilityDays": "Mon,Wed,Fri",
+      "bankDetails": {
+        "bankName": "Kotak Mahindra Bank",
+        "ifscCode": "KKBK0007654",
+        "accountNumber": "7654321098234567"
+      }
+    },
+    {
+      "engineerId": "65827394MNBVCXZA",
+      "engineerName": "Deepak Joshi",
+      "engineerContact": "+918273645819",
+      "state": "Uttarakhand",
+      "engineerLocation": "Rajpur Road, Dehradun",
+      "engineerStatus": "Inactive",
+      "engineerTools": "Drill,Leveler,Saw",
+      "availabilityDays": "Tue,Thu,Sat",
+      "bankDetails": {
+        "bankName": "YES Bank",
+        "ifscCode": "YESB0004567",
+        "accountNumber": "4567890123456789"
+      }
+    }
+  ]
+  
