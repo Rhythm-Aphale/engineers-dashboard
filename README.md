@@ -25,8 +25,8 @@ A modern, responsive web application for managing engineering team members with 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rhythm-aphale/engineer-management.git
-   cd engineer-management
+   gh repo clone Rhythm-Aphale/engineers-dashboard
+   cd engineer-dashboard
    ```
 
 2. Install the dependencies:
@@ -55,7 +55,7 @@ A modern, responsive web application for managing engineering team members with 
 ## Project Structure
 
 ```
-engineer-management/
+engineer-dashboard/
 ├── app/                      # Next.js app directory
 │   ├── engineers/            # Engineer detail routes
 │   │   └── [id]/             # Dynamic route for engineer details
