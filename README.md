@@ -51,32 +51,6 @@ A modern, responsive web application for managing engineering team members with 
    ```
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
-
-## Project Structure
-
-```
-engineer-dashboard/
-├── app/                      # Next.js app directory
-│   ├── engineers/            # Engineer detail routes
-│   │   └── [id]/             # Dynamic route for engineer details
-│   │       └── page.tsx      # Engineer details page
-│   ├── page.tsx              # Dashboard main page
-│   └── layout.tsx            # Root layout
-├── components/               # Reusable components
-│   ├── ui/                   # UI components (from shadcn/ui)
-│   │   ├── badge.tsx         # Badge component
-│   │   ├── button.tsx        # Button component
-│   │   ├── card.tsx          # Card component
-│   │   ├── dropdown-menu.tsx # Dropdown menu component
-│   │   └── input.tsx         # Input component
-│   └── EngineerCard.tsx      # Engineer card component
-├── lib/                      # Utility functions and types
-│   ├── types.ts              # Type definitions
-│   └── utils.ts              # Utility functions
-└── data/                     # Data files
-    └── engineers.json        # Engineer data
-```
-
 ## Technologies Used
 
 - [Next.js](https://nextjs.org/) - React framework
