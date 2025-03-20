@@ -25,7 +25,7 @@ A modern, responsive web application for managing engineering team members with 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/engineer-management.git
+   git clone https://github.com/rhythm-aphale/engineer-management.git
    cd engineer-management
    ```
 
